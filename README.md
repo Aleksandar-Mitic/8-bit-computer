@@ -10,9 +10,9 @@ What do you need?
 Logisim can be downloaded from here: https://sourceforge.net/projects/circuit/
 
 ## 1 step
-Build SR latch
-Build D latch
-Build flip-flop
+- Build SR latch
+- Build D latch
+- Build flip-flop
 
 **Read More**
 
